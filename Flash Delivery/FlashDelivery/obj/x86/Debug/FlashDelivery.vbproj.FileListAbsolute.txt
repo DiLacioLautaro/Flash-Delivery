@@ -1,0 +1,143 @@
+C:\Users\Florencia\AppData\Local\Temporary Projects\FlashDelivery\bin\Debug\FlashDelivery.exe
+C:\Users\Florencia\AppData\Local\Temporary Projects\FlashDelivery\bin\Debug\FlashDelivery.pdb
+C:\Users\Florencia\AppData\Local\Temporary Projects\FlashDelivery\bin\Debug\FlashDelivery.xml
+C:\Users\Florencia\AppData\Local\Temporary Projects\FlashDelivery\obj\x86\Debug\FlashDelivery.Login.resources
+C:\Users\Florencia\AppData\Local\Temporary Projects\FlashDelivery\obj\x86\Debug\FlashDelivery.Resources.resources
+C:\Users\Florencia\AppData\Local\Temporary Projects\FlashDelivery\obj\x86\Debug\FlashDelivery.vbproj.GenerateResource.Cache
+C:\Users\Florencia\AppData\Local\Temporary Projects\FlashDelivery\obj\x86\Debug\FlashDelivery.exe
+C:\Users\Florencia\AppData\Local\Temporary Projects\FlashDelivery\obj\x86\Debug\FlashDelivery.xml
+C:\Users\Florencia\AppData\Local\Temporary Projects\FlashDelivery\obj\x86\Debug\FlashDelivery.pdb
+C:\Users\Florencia\AppData\Local\Temporary Projects\FlashDelivery\obj\x86\Debug\FlashDelivery.frmMenu.resources
+C:\Users\Florencia\AppData\Local\Temporary Projects\FlashDelivery\obj\x86\Debug\FlashDelivery.frmLocalesNear.resources
+C:\Users\Florencia\AppData\Local\Temporary Projects\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRealizarPed.resources
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.exe
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.xml
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.pdb
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\bin\Debug\FlashDelivery.exe
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\bin\Debug\FlashDelivery.pdb
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\bin\Debug\FlashDelivery.xml
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmLocalesNear.resources
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRealizarPed.resources
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.Login.resources
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmMenu.resources
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.Resources.resources
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.vbproj.GenerateResource.Cache
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmEspera.resources
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmPedidosEnCurso.resources
+C:\Users\Florencia\Documents\Flash Delivery\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmAyuda.resources
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.exe
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.xml
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.pdb
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmAyuda.resources
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmEspera.resources
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmLocalesNear.resources
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRealizarPed.resources
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.Login.resources
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmMenu.resources
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.Resources.resources
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmPedidosEnCurso.resources
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.vbproj.GenerateResource.Cache
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\bin\Debug\FlashDelivery.exe
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\bin\Debug\FlashDelivery.pdb
+C:\Users\W10\Desktop\FlashDelivery\FlashDelivery\bin\Debug\FlashDelivery.xml
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.exe
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.xml
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.pdb
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\bin\Debug\FlashDelivery.exe
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\bin\Debug\FlashDelivery.pdb
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\bin\Debug\FlashDelivery.xml
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmAyuda.resources
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmEspera.resources
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmLocalesNear.resources
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRealizarPed.resources
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.Login.resources
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmMenu.resources
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.Resources.resources
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.frmPedidosEnCurso.resources
+C:\Users\Florencia\Desktop\FlashDelivery\FlashDelivery\obj\x86\Debug\FlashDelivery.vbproj.GenerateResource.Cache
+C:\Users\jaco\Downloads\valen ber sistema\flashvalen\FlashDelivery\obj\x86\Debug\FlashDelivery.exe
+C:\Users\jaco\Downloads\valen ber sistema\flashvalen\FlashDelivery\obj\x86\Debug\FlashDelivery.xml
+C:\Users\jaco\Downloads\valen ber sistema\flashvalen\FlashDelivery\obj\x86\Debug\FlashDelivery.pdb
+C:\Users\valed\OneDrive\Desktop\h\eskuela\compu\6to dauji parte 3\visual\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.exe
+C:\Users\valed\OneDrive\Desktop\h\eskuela\compu\6to dauji parte 3\visual\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.xml
+C:\Users\valed\OneDrive\Desktop\h\eskuela\compu\6to dauji parte 3\visual\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.pdb
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.exe
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.xml
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.pdb
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\bin\Debug\FlashDelivery.exe
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\bin\Debug\FlashDelivery.pdb
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\bin\Debug\FlashDelivery.xml
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.frmAyuda.resources
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.frmEspera.resources
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.frmLocalesNear.resources
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRealizarPed.resources
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.Login.resources
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.frmMenu.resources
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.Resources.resources
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.frmPedidosEnCurso.resources
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.vbproj.GenerateResource.Cache
+C:\Users\Florencia\Desktop\valentina Flashdelivery\flashvalen - copia\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRegisterCliente.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.exe
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.xml
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.pdb
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.frmAyuda.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.frmEspera.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.frmLocalesNear.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRealizarPed.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRegisterCliente.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.Login.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.frmMenu.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.Resources.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.frmPedidosEnCurso.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.vbproj.GenerateResource.Cache
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\bin\Debug\FlashDelivery.exe
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\bin\Debug\FlashDelivery.pdb
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\bin\Debug\FlashDelivery.xml
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRegRepartidor.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\sistema sin REGISTERS\FlashDelivery\obj\x86\Debug\FlashDelivery.Register.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.exe
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.xml
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.pdb
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\bin\Debug\FlashDelivery.exe
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\bin\Debug\FlashDelivery.pdb
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\bin\Debug\FlashDelivery.xml
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.ABMZona.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmAyuda.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmEspera.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmLocalesNear.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRealizarPed.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRegisterCliente.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRegRepartidor.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.Login.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.Register.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmMenu.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.Resources.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmPedidosEnCurso.resources
+C:\Users\Florencia\Desktop\SIN REGISTERS\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.vbproj.GenerateResource.Cache
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.exe
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.xml
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.pdb
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\bin\Debug\FlashDelivery.exe
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\bin\Debug\FlashDelivery.pdb
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\bin\Debug\FlashDelivery.xml
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.ABMVehiculoRegistrado.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.ABMZona.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmEspera.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmLocalesNear.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRealizarPed.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRegisterCliente.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.Login.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.Register.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmMenu.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.Resources.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmPedidosEnCurso.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmBusquedaPedidos.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmDatosDomicilio.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmDirigirseLocal.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmEntregaCompletada.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRegistroPedidos.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRepartidorAceptarPedido.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmUsuarioRepartidor.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.vbproj.GenerateResource.Cache
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmRepartidorPed.resources
+C:\Users\Florencia\Desktop\Sistema Polished\Flash Delivery Polished\FlashDelivery\obj\x86\Debug\FlashDelivery.frmAjustes.resources

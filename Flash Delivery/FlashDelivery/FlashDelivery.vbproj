@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A142A890-5CCD-4D23-A8EE-1DB7543306E7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>FlashDelivery.My.MyApplication</StartupObject>
+    <RootNamespace>FlashDelivery</RootNamespace>
+    <AssemblyName>FlashDelivery</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>FlashDelivery.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>FlashDelivery.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABM\ABMVehiculoRegistrado.Designer.vb">
+      <DependentUpon>ABMVehiculoRegistrado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\ABMVehiculoRegistrado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\ABMZona.Designer.vb">
+      <DependentUpon>ABMZona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\ABMZona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\Entregas\frmEspera.Designer.vb">
+      <DependentUpon>frmEspera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\Entregas\frmEspera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\Entregas\frmLocalesNear.Designer.vb">
+      <DependentUpon>frmLocalesNear.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\Entregas\frmLocalesNear.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\Entregas\RealizarPedido.Designer.vb">
+      <DependentUpon>RealizarPedido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\Entregas\RealizarPedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\Menu\frmAjustes.Designer.vb">
+      <DependentUpon>frmAjustes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\Menu\frmAjustes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\Pedidos En Curso\frmRepartidorPed.Designer.vb">
+      <DependentUpon>frmRepartidorPed.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\Pedidos En Curso\frmRepartidorPed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingresos\frmRegisterCliente.Designer.vb">
+      <DependentUpon>frmRegisterCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ingresos\frmRegisterCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingresos\Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ingresos\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingresos\Register.Designer.vb">
+      <DependentUpon>Register.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ingresos\Register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente\Menu\frmMenu.Designer.vb">
+      <DependentUpon>frmMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\Menu\frmMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modulo.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Cliente\Pedidos En Curso\frmPedidosEnCurso.Designer.vb">
+      <DependentUpon>frmPedidosEnCurso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente\Pedidos En Curso\frmPedidosEnCurso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Repartidor\frmBusquedaPedidos.designer.vb">
+      <DependentUpon>frmBusquedaPedidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Repartidor\frmBusquedaPedidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Repartidor\frmDatosDomicilio.designer.vb">
+      <DependentUpon>frmDatosDomicilio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Repartidor\frmDatosDomicilio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Repartidor\frmDirigirseLocal.designer.vb">
+      <DependentUpon>frmDirigirseLocal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Repartidor\frmDirigirseLocal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Repartidor\frmEntregaCompletada.designer.vb">
+      <DependentUpon>frmEntregaCompletada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Repartidor\frmEntregaCompletada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Repartidor\frmRegistroPedidos.Designer.vb">
+      <DependentUpon>frmRegistroPedidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Repartidor\frmRegistroPedidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Repartidor\frmRepartidorAceptarPedido.designer.vb">
+      <DependentUpon>frmRepartidorAceptarPedido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Repartidor\frmRepartidorAceptarPedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Repartidor\frmUsuarioRepartidor.Designer.vb">
+      <DependentUpon>frmUsuarioRepartidor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Repartidor\frmUsuarioRepartidor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ABM\ABMVehiculoRegistrado.resx">
+      <DependentUpon>ABMVehiculoRegistrado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\ABMZona.resx">
+      <DependentUpon>ABMZona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\Entregas\frmEspera.resx">
+      <DependentUpon>frmEspera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\Entregas\frmLocalesNear.resx">
+      <DependentUpon>frmLocalesNear.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\Entregas\RealizarPedido.resx">
+      <DependentUpon>RealizarPedido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\Menu\frmAjustes.resx">
+      <DependentUpon>frmAjustes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\Pedidos En Curso\frmRepartidorPed.resx">
+      <DependentUpon>frmRepartidorPed.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingresos\frmRegisterCliente.resx">
+      <DependentUpon>frmRegisterCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingresos\Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingresos\Register.resx">
+      <DependentUpon>Register.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\Menu\frmMenu.resx">
+      <DependentUpon>frmMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente\Pedidos En Curso\frmPedidosEnCurso.resx">
+      <DependentUpon>frmPedidosEnCurso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repartidor\frmBusquedaPedidos.resx">
+      <DependentUpon>frmBusquedaPedidos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repartidor\frmDatosDomicilio.resx">
+      <DependentUpon>frmDatosDomicilio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repartidor\frmDirigirseLocal.resx">
+      <DependentUpon>frmDirigirseLocal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repartidor\frmEntregaCompletada.resx">
+      <DependentUpon>frmEntregaCompletada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repartidor\frmRegistroPedidos.resx">
+      <DependentUpon>frmRegistroPedidos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repartidor\frmRepartidorAceptarPedido.resx">
+      <DependentUpon>frmRepartidorAceptarPedido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repartidor\frmUsuarioRepartidor.resx">
+      <DependentUpon>frmUsuarioRepartidor.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu principal.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pedidos en curso.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ayuda.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Espera.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LocalesCerca.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Realizar Pedido.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu principal1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vista del repartidor 23.png" />
+    <None Include="Resources\UsuarioRepartidor.PNG" />
+    <None Include="Resources\RegistroPedidos.PNG" />
+    <None Include="Resources\RegistrarLocal1.png" />
+    <None Include="Resources\Login1.PNG" />
+    <None Include="Resources\ABM Vehiculo.PNG" />
+    <None Include="Resources\pedidosenzona.PNG" />
+    <None Include="Resources\dirigetedomicilio.PNG" />
+    <None Include="Resources\pedidoentregado.PNG" />
+    <None Include="Resources\deseatomar.PNG" />
+    <Content Include="Resources\Register.PNG" />
+    <None Include="Resources\Register1.PNG" />
+    <Content Include="Resources\RegistrarCliente.PNG" />
+    <Content Include="Resources\RegistrarCliente1.PNG" />
+    <None Include="Resources\RegistrarCliente2.PNG" />
+    <None Include="Resources\RegistrarCliente11.PNG" />
+    <Content Include="Resources\RegistrarLocal.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
