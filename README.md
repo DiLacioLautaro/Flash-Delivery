@@ -3,6 +3,6 @@ Flash Delivery es un sistema informatizado que se desarrollo con mis compañeros
 En donde para poder llevarse a cabo se realizó un análisis, planificación previa, desarrollo y testeo del sistema utilizando Visual Basic.NET; confección de formularios y documentación legal correspondiente, así como la carpeta del sistema y su respectivo manual de usuario.
 
 ## OBJETIVO DEL PROYECTO:
-#####  Administrar y gestionar una aplicacion para la confección de pedidos.
+##### Entregar de manera eficiente, los pedidos solicitados por los clientes adheridos a la  aplicación. Nuestro sistema se dividirá en las distintas zonas de la capital federal, en el cual se tendrán locales adheridos a la aplicación de las distintas  zonas, como también repartidores que tendrán asignadas zonas específicas para repartir los elementos que soliciten los clientes1
 
  
